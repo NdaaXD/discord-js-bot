@@ -1,7 +1,7 @@
 module.exports = {
-  OWNER_IDS: [], // Bot owner ID's
+  OWNER_IDS: [955926018160488530], // Bot owner ID's
   PREFIX: "!", // Default prefix for the bot
-  SUPPORT_SERVER: "", // Your bot support server
+  SUPPORT_SERVER: "https://discord.gg/EqJ6MEXk9F", // Your bot support server
   PRESENCE: {
     ENABLED: true, // Whether or not the bot should update its status
     STATUS: "online", // The bot's status [online, idle, dnd, invisible]
